@@ -65,10 +65,6 @@ Before running this project locally, ensure you have the following installed:
    API_SECRET=<your_cloudinary_api_secret>
    GMAIL_ID=<mail_id_for_sending_mail>
    APP_PASSWORD=<set_app_password_in_gmail>
-   RAZORPAY_API_KEY=<your_razorpay_api_key>
-   RAZORPAY_PLAN_ID=<your_subscription_plan_id>
-   RAZORPAY_KEY_SECRET=<your_razorpay_key_secret>
-   ```
 
 ## Usage
 
